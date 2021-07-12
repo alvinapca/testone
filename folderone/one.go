@@ -1,2 +1,2 @@
 package two
-const Two = "hello world 5"
+const Two = "hello world 6"
